@@ -1,0 +1,20 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="719" y="300" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1440.900" x="438" y="248" />
+    <location key="OptionsEditor.0.0.1440.900" x="-63" y="23" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1440.900" x="901" y="400" />
+    <location key="WELCOME_SCREEN.1440.0.1920.1080" x="2666" y="378" />
+    <location key="OptionsEditor.1440.0.1920.1080" x="1868" y="23" />
+    <location key="DiffWindow.1440.0.1920.1080" x="1868" y="149" />
+    <location key="CommitChangelistDialog2.1440.0.1920.1080" x="2320" y="138" />
+    <location key="#Browse_JetBrains_Plugins_.1440.0.1920.1080" x="2056" y="103" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.1440.0.1920.1080" x="1868" y="149" />
+    <size key="DiffWindow.1440.0.1920.1080" width="1200" height="557" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.1440.0.1920.1080" width="1200" height="557" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="300" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
+    <extendedState key="DiffWindow" state="0" />
+  </component>
+</application>

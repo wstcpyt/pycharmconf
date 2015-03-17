@@ -1,0 +1,44 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JavaScript versions">
+      <project id="pycharminitialtest" values="DEFAULT" />
+      <project id="lemoxing_django" values="DEFAULT" />
+    </group>
+    <group name="module type">
+      <project id="pycharminitialtest" values="PYTHON_MODULE" />
+      <project id="lemoxing_django" values="PYTHON_MODULE" />
+    </group>
+    <group name="vcs">
+      <project id="lemoxing_django" values="Git" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="lemoxing_django" values="Python.DjangoServer" />
+    </group>
+    <group name="file-type">
+      <project id="pycharminitialtest" values="PLAIN_TEXT,UNKNOWN,Python,XML" />
+      <project id="lemoxing_django" values="HTML,Ini,Python,CSS,PLAIN_TEXT,JavaScript,UNKNOWN,XML,Images" />
+    </group>
+    <group name="py-packages">
+      <project id="lemoxing_django" values="django-jinja,psycopg2,newrelic,Django,Jinja2,django-allauth" />
+    </group>
+    <group name="py-interpreter">
+      <project id="pycharminitialtest" values="Python 3.4.3" />
+      <project id="lemoxing_django" values="Python 3.4.3" />
+    </group>
+    <group name="frameworks">
+      <project id="lemoxing_django" values="django" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="pycharminitialtest" values="Project,Project" />
+      <project id="lemoxing_django" values="Project,Project" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="NewDirectoryProjectAction.Pure Python" count="1" />
+      <entry feature="ide.settings.Project_Interpreter" count="1" />
+      <entry feature="ideaapp.started" count="2" />
+      <entry feature="uml.ShowDiagram.DIFF.popup" count="1" />
+    </counts>
+  </component>
+</application>
